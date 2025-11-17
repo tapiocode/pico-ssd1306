@@ -1,6 +1,6 @@
 # SSD1306 Display Library For Raspberry Pi Pico C/C++ SDK
 
-<video controls loop muted playsinline poster="pico-ssd1306-demo.png" width="380"> <source src="https://github.com/tapiocode/pico-ssd1306/releases/download/v0.1.0-alpha/pico-ssd1306-demo.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
+https://github.com/user-attachments/assets/32350cfd-35e9-4337-aae8-f5f3c7b83971
 
 The library implements the driver commands over I2C as described in the SSD1306 datasheet.
 
