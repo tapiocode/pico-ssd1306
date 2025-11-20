@@ -1,5 +1,5 @@
 #include "pico/stdlib.h"
-#include "lib/font.h"
+#include "../font.h"
 
 #ifndef __FONT8x8_H__
 #define __FONT8x8_H__
